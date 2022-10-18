@@ -1,8 +1,5 @@
-- 👋 Oi, eu sou o @warleymts
-- 👀 Estou aprendendo programação...
-- 🌱 Quero aprender back-end e segurança da informação...
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/warleytmts)](https://github.com/warleymts)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/warleymts/)
 
-<!---
-warleymts/warleymts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Oi, eu sou o @warleymts :D
+- 👀 Full Dev. Especializado em JS :construction:
