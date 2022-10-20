@@ -2,4 +2,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/warleymts/)](https://www.linkedin.com/in/warleymts/)
 
 - 👋 Oi, eu sou o @warleymts :D
-- 👀 Full Dev. Especializado em JS :construction:
+- 👀 Fullstack Web Developer  :construction:
+- :learning: HTML | CSS | PHP
