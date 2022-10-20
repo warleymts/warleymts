@@ -3,4 +3,4 @@
 
 - 👋 Oi, eu sou o @warleymts :D
 - 👀 Fullstack Web Developer  :construction:
-- :learning: HTML | CSS | PHP
+- HTML | CSS | PHP
