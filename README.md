@@ -4,3 +4,6 @@
 - 👋 Oi, eu sou o @warleymts :D
 - 👀 Fullstack Web Developer  :construction:
 - HTML | CSS | Javascript
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=warleymts&show_icons=true&theme=radical)
